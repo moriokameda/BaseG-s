@@ -8,6 +8,8 @@
   border-radius: 10px;
   box-sizing: border-box;
   background-color: #56bf4b;
+  color: #fff;
+  font-family: Bodoni FLF;
 }
 .main_img {
   background-image: url('/img/S__65970339.jpg');
@@ -21,4 +23,14 @@
   object-fit: cover;
   position: absolute;
   right: 0;
+}
+/* footer */
+#mainFooter {
+  background-image: url(https://basefile.akamaized.net/mrkd/5ed7d008b2621/ae063f068012f22dbb100fab5c95732e.jpg);
+  box-sizing: border-box;
+  width: 100%;
+  height: 100%;
+}
+.footerNav {
+  color: #fff;
 }
